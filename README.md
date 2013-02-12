@@ -6,7 +6,7 @@ Search for Go packages.
 
 ## Installation
 
-`go get github.com/importre/ggp`
+`$ go get github.com/importre/ggp`
 
 ## Usage
 
@@ -16,7 +16,7 @@ Search for Go packages.
 
 If you want to find packages related to "xml", just type the following.
 
-`$ggp -q xml`
+`$ ggp -q xml`
 
 Then **ggp** will show you something.
 
